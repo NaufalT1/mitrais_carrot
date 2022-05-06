@@ -6,3 +6,5 @@ Team Members
 3.	Naufal Takbir Ibrahim
 4.	Muchamad Khafido Ilzam
 5.	Pradipta Ratu Kinasih
+
+Learning using GitHub as team
